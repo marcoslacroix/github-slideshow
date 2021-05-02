@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Marcos Daniel
+My new TEXT
 Use the left arrow to go back!
